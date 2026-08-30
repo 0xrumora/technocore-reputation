@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local data (generated, not source)
+report.json
+
+# Vercel
+.vercel/
+
+# Node
+node_modules/
